@@ -1,0 +1,13 @@
+{
+  "name": "MVR Public Relations",
+  "short_name": "MVR",
+  "description": "PR for founder-led brands that need coverage and collaboration. A Manila studio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f1f2",
+  "theme_color": "#db423d",
+  "icons": [
+    { "src": "/assets/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

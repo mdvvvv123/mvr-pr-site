@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Netlify (already deployed via CLI, no need to track)
+.netlify
+
+# Editor
+.vscode
+.idea
+*.swp
+
+# Misc
+*.log

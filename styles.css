@@ -369,7 +369,7 @@ details[open] summary{color:var(--red)}
 
 .coverage{padding:var(--section-pad) 0;background:var(--paper);border-top:1px solid var(--rule)}
 .coverage .sec-head h2{font-size:clamp(32px,4.4vw,64px);line-height:1}
-.cov-cards{display:grid;grid-template-columns:repeat(4,1fr);gap:clamp(16px,1.6vw,24px);background:transparent;border:0;margin-top:48px}
+.cov-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(16px,1.6vw,24px);background:transparent;border:0;margin-top:48px}
 .cov-card{background:var(--paper);border:1px solid rgba(35,31,32,.07);border-radius:16px;min-height:0;padding:0;gap:0;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 8px 26px -16px rgba(35,31,32,.22);transition:transform .3s var(--ease),box-shadow .3s var(--ease),border-color .3s}
 .cov-card:hover{background:var(--paper);transform:translateY(-6px);box-shadow:0 30px 60px -28px rgba(35,31,32,.42);border-color:rgba(35,31,32,.14)}
 .cc-photo{display:block;aspect-ratio:16/10;overflow:hidden;background:var(--ivory)}
